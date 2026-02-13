@@ -1,0 +1,12 @@
+{
+  "extraction_mode": "per_pixel_rgb",
+  "aggregation": "none",
+  "vector_layout": "[R1,G1,B1, R2,G2,B2, ...] over ROI pixels in row-major order",
+  "roi_pixels_original": 115943,
+  "roi_pixels_after_downsample": 115943,
+  "roi_pixels_used": 5000,
+  "downsample_factor": 1,
+  "max_pixels": 5000,
+  "sampled": true,
+  "seed": 123
+}

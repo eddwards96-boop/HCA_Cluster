@@ -1,0 +1,8 @@
+{
+  "metric_requested": "auto",
+  "metric_selected": "euclidean",
+  "ccc_euclidean": 0.6724994691824823,
+  "ccc_cosine": 0.665379585968426,
+  "threshold": 0.02,
+  "pairwise_complete_obs": true
+}

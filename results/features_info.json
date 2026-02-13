@@ -1,0 +1,15 @@
+{
+  "num_images": 487,
+  "roi_pixels_original": 115943,
+  "roi_pixels_after_downsample": 115943,
+  "roi_pixels_used": 5000,
+  "roi_sampled": true,
+  "max_pixels": 5000,
+  "downsample_factor": 1,
+  "pca_components": 50,
+  "final_dim": 50,
+  "linkage": "complete",
+  "metric": "euclidean",
+  "pairwise_complete_obs": true,
+  "bootstrap_replicates": 10000
+}
